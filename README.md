@@ -1,4 +1,4 @@
-# Student_Database_Management_-System
+# Student_Database_Management_System
 C++ Project (OOP)
 
 A student database is a platform that can be used to record and store all the details of the
